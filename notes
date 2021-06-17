@@ -1,0 +1,78 @@
+*INTRODUCTION:
+Python is an interpreted and high-level programming language which was originated in the year of late 1980s but it was implemented in December 1989 by Guido Van Rossum.
+Python is dynamically typed, and garbage-collected language which aims to help a programmer to write clear and logical code for both small and large-scale projects.
+Learning Python is good because Python is a famous programming language because it is easy to learn and use.
+Python is opensource which was developed under OSI-approved license, making it freely usable and distributable, even for commercial use. It means any of them can contribute to the python software.
+
+*Python Interpreter:
+An interpreter is a kind of program that executes other programs when you write python, programs, it converts source code written by the developer into an intermediate language. 
+Which again translated into the native language/machine language that is executed.
+The python code written by you is computed into python byte code, which creates a file with the extension .Py. The byte code compilation happens internally and almost completely hidden from the developer.
+The .py file is created during the compilation step in order to execute the data present in the file. Hence interpreter is mostly used for compiling each and every line in python code.
+
+
+*Python Environment:
+The best environment to learn and execute your code in python is Anaconda. Anaconda is an open-source platform with an inbuilt package of different software required for a developer to execute his skill.
+Anaconda is popular as it contains many of the tools used in data science and Machine learning with just one install, so it is better to have a short and simple setup.
+
+To Setup Python Environment, follow the below steps–
+
+Step1: Go to Google and type Anaconda.
+Step2: Click on the first link.
+Step3: Click “Get Started” button.
+Get Started
+Step4: Click on “See all Anaconda products” button.
+See all Anaconda products
+Step5: Go to “Individual Edition” and click on “Learn More“.
+Individual Edition
+Step6: Now click on “Download” button.
+anaconda download button
+Step7: You will automatically be redirected to down of the page where you can select your system config: Windows- 32/64 bit, Mac, and Linux click download it.
+anaconda download options
+Step8: Install it in your PC/laptop/Mac.
+
+You are ready to become a developer!!
+
+
+*Why Python?
+Easy to learn
+Easy to write code
+Big Community support
+Used to make GUI applications
+In demand
+Used for scripting and automation
+Web development
+Data Science
+Machine learning
+Artificial Intelligence
+Easy image processing
+Rich in libraries
+
+
+*Main Applications of Python:
+
+Here are some of the main applications of Python:
+
+Data Science
+Automation
+Application Development
+Artificial Intelligence
+Machine Learning
+Web development
+Business applications
+Image Processing
+Desktop GUI
+Audio/Video Applications
+Scientific Calculations
+Embedded Application
+
+
+*Comments in Python
+There are two types of comments:
+
+1.Single-Line Comments:
+Single line comments start with “#” and can be used anywhere in a program.
+
+2.Multi-line Comments
+In python, single quotes(‘) and double quotes(“) represents the same meaning.
+
